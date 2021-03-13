@@ -1,0 +1,16 @@
+D:\Users\luism\Documents\Estudos\Unip\ads-unip-2020\Semestre3\C#\projects\aula03\bin\Debug\net5.0\aula03.exe
+D:\Users\luism\Documents\Estudos\Unip\ads-unip-2020\Semestre3\C#\projects\aula03\bin\Debug\net5.0\aula03.deps.json
+D:\Users\luism\Documents\Estudos\Unip\ads-unip-2020\Semestre3\C#\projects\aula03\bin\Debug\net5.0\aula03.runtimeconfig.json
+D:\Users\luism\Documents\Estudos\Unip\ads-unip-2020\Semestre3\C#\projects\aula03\bin\Debug\net5.0\aula03.runtimeconfig.dev.json
+D:\Users\luism\Documents\Estudos\Unip\ads-unip-2020\Semestre3\C#\projects\aula03\bin\Debug\net5.0\aula03.dll
+D:\Users\luism\Documents\Estudos\Unip\ads-unip-2020\Semestre3\C#\projects\aula03\bin\Debug\net5.0\ref\aula03.dll
+D:\Users\luism\Documents\Estudos\Unip\ads-unip-2020\Semestre3\C#\projects\aula03\bin\Debug\net5.0\aula03.pdb
+D:\Users\luism\Documents\Estudos\Unip\ads-unip-2020\Semestre3\C#\projects\aula03\obj\Debug\net5.0\aula03.csprojAssemblyReference.cache
+D:\Users\luism\Documents\Estudos\Unip\ads-unip-2020\Semestre3\C#\projects\aula03\obj\Debug\net5.0\aula03.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\luism\Documents\Estudos\Unip\ads-unip-2020\Semestre3\C#\projects\aula03\obj\Debug\net5.0\aula03.AssemblyInfoInputs.cache
+D:\Users\luism\Documents\Estudos\Unip\ads-unip-2020\Semestre3\C#\projects\aula03\obj\Debug\net5.0\aula03.AssemblyInfo.cs
+D:\Users\luism\Documents\Estudos\Unip\ads-unip-2020\Semestre3\C#\projects\aula03\obj\Debug\net5.0\aula03.csproj.CoreCompileInputs.cache
+D:\Users\luism\Documents\Estudos\Unip\ads-unip-2020\Semestre3\C#\projects\aula03\obj\Debug\net5.0\aula03.dll
+D:\Users\luism\Documents\Estudos\Unip\ads-unip-2020\Semestre3\C#\projects\aula03\obj\Debug\net5.0\ref\aula03.dll
+D:\Users\luism\Documents\Estudos\Unip\ads-unip-2020\Semestre3\C#\projects\aula03\obj\Debug\net5.0\aula03.pdb
+D:\Users\luism\Documents\Estudos\Unip\ads-unip-2020\Semestre3\C#\projects\aula03\obj\Debug\net5.0\aula03.genruntimeconfig.cache
